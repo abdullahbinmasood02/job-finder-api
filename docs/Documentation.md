@@ -264,6 +264,14 @@ The API implements comprehensive error handling:
    
 5. Or use the Swagger UI at `http://localhost:8000/docs`
 
+## Screenshots
+
+
+
+### Sample Request - Response
+![Sample Job Search Request](./images/req-resp.png)
+
+
 ## Conclusion
 
 The Job Finder API provides a powerful and flexible solution for aggregating job listings from multiple sources and filtering them using advanced AI techniques. Its modular architecture allows for easy extension and maintenance, making it suitable for both personal use and integration into larger applications.
